@@ -8,19 +8,20 @@ import string as st
 
 class password_generator:
     # Constructor
-    
+
     def __init__(self):
         self.pwd_len = 0
         self.pwd_stren = "weak"
         self.gen_pwd = ""
-    
+
     # To accept length
-    
+
     def get_length(self, length):
         self.pwd_len = length
+        print("Password Length: ", self.pwd_len)
 
     # To calculate password strength
-    
+
     def calc_strength(self):
         if (self.pwd_len >= 4 and self.pwd_len <= 7):
             self.pwd_stren = "Weak"
@@ -28,15 +29,14 @@ class password_generator:
             self.pwd_stren = "Moderate"
         else:
             self.pwd_stren = "Strong"
-        print("Password Strength: ", self.pwd_stren)
+        print("Password Strength: ", self.pwd_stren, '\n')
 
     # To generate random password
-    
+
     def generate_password(self):
-        self.gen_pwd = random.choice(st.ascii_uppercase)
-        self.gen_pwd = self.gen_pwd + random.choice(st.ascii_lowercase)
-        self.gen_pwd = self.gen_pwd + random.choice(st.digits)
-        self.gen_pwd = self.gen_pwd + random.choice(st.punctuation)
+        self.gen_pwd = random.choice(st.ascii_uppercase) + \
+            random.choice(st.ascii_lowercase) + \
+            random.choice(st.digits) + random.choice(st.punctuation)
         for a in range(self.pwd_len - 4):
             self.gen_pwd = self.gen_pwd + random.choice(st.ascii_uppercase +
                                                         st.ascii_lowercase +
@@ -45,9 +45,9 @@ class password_generator:
         password_list = list(self.gen_pwd)
         random.shuffle(password_list)
         self.gen_pwd = ''.join(password_list)
-        print("\nGenerated password: ", self.gen_pwd)
+        print("Generated password: ", self.gen_pwd)
 
-# To handle input and output files        
+# To handle input and output files
 
 
 class input_output_file_handling:
@@ -60,7 +60,9 @@ class input_output_file_handling:
             object1.get_length(length)
             object1.generate_password()
             object1.calc_strength()
-            fw.write(object1.gen_pwd + ' : ' + object1.pwd_stren + '\n')
+            fw.write("Password Length: " + each_line +
+                     "Generated Password: " + object1.gen_pwd + '\n' +
+                     "Password Strength: " + object1.pwd_stren + '\n\n')
         fr.close()
         fw.close()
 
