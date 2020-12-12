@@ -1,28 +1,127 @@
 Password Length: 14
-Generated Password: ZQJ0eaHc3HhzY*
+Generated Password: :?/uK2m<XQMm6^
 Password Strength: Strong
 
 Password Length: 9
-Generated Password: 9$9a,VxPS
+Generated Password: @wKTl^}6K
 Password Strength: Moderate
 
 Password Length: 5
-Generated Password: 2h1;J
+Generated Password: 7pYi<
 Password Strength: Weak
 
-Password Length: 2Generated Password: 1#Yd
+Password Length: 2Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 14
+Generated Password: S4O\KoM4bA#T)7
+Password Strength: Strong
+
+Password Length: 9
+Generated Password: 29\-Y;J9u
+Password Strength: Moderate
+
+Password Length: 5
+Generated Password: 8Rs7^
+Password Strength: Weak
+
+Password Length: 2
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 4.7Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 14
+Generated Password: o"bNgKC!8<{P&d
+Password Strength: Strong
+
+Password Length: 9
+Generated Password: {Ef5N>?"t
+Password Strength: Moderate
+
+Password Length: 5
+Generated Password: S6Q?k
+Password Strength: Weak
+
+Password Length: 2
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 4.7Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 14
+Generated Password: u!5'fOTY55qTm-
+Password Strength: Strong
+
+Password Length: 9
+Generated Password: G0/b;bg^e
+Password Strength: Moderate
+
+Password Length: 5
+Generated Password: h7T#[
+Password Strength: Weak
+
+Password Length: 2
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 4.7Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 14
+Generated Password: O)lvfF{ZL_eTc4
+Password Strength: Strong
+
+Password Length: 9
+Generated Password: h_QBk<w8v
+Password Strength: Moderate
+
+Password Length: 5
+Generated Password: #zj9K
+Password Strength: Weak
+
+Password Length: 2
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 4.7Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 14
+Generated Password: [aDz1s3tj0mn9t
+Password Strength: Strong
+
+Password Length: 9
+Generated Password: zFW,Ls6WG
+Password Strength: Moderate
+
+Password Length: 5
+Generated Password: S1+vO
+Password Strength: Weak
+
+Password Length: 2
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 4.7
+Generated Password: Invalid
+Password Strength: Invalid
+
+Password Length: 256Generated Password: *~5"\G:|o&*XJ*D}d=N~LdlH~TT6le$M,Hh4o2)ez'V*vVkXVE+;LcIc~skpBE*c]qehQZJoc&)~v25Lw-vqRkfy\z(&@``u]uk4}ntx.`Z,>i0%IGfIzc]a0ie2MJ@AOVu7x&.aG:*=<$3+`>#Wr!i<ZRwawSRh<P`n(;'BQ1ErQJi3n0q,cl*@z*scZaZft*6@w29Aw*lnu^|j~4rwv.c7uQW<6ah:Mv#Z=a9;SAbsvbg9xAT|_:<$~w;fk5vv
 Password Strength: Strong
 
 Password Length: 14
-Generated Password: aePAr($2m4A<Z`
+Generated Password: U}hQ,^m*1!fzTl
 Password Strength: Strong
 
 Password Length: 9
-Generated Password: ;F>F4&k.4
+Generated Password: E39<?vri\
 Password Strength: Moderate
 
 Password Length: 5
-Generated Password: h(T5G
+Generated Password: _D6qB
 Password Strength: Weak
 
 Password Length: 2
@@ -45,77 +144,15 @@ Password Length: 9999999999Generated Password: Invalid
 Password Strength: Invalid
 
 Password Length: 14
-Generated Password: s3^GYTgG0k`SIH
+Generated Password: '\P/9IPlo#<ep;
 Password Strength: Strong
 
 Password Length: 9
-Generated Password: o-V*K1yFp
+Generated Password: <Mq?{sr46
 Password Strength: Moderate
 
 Password Length: 5
-Generated Password: Zb-1_
-Password Strength: Weak
-
-Password Length: 2
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 4.7
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: hi
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 256
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 9999999999Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 14
-Generated Password: 4M'.Y~Tq0RePGE
-Password Strength: Strong
-
-Password Length: 9
-Generated Password: H*"g|5T8F
-Password Strength: Moderate
-
-Password Length: 5
-Generated Password: T3g|?
-Password Strength: Weak
-
-Password Length: 2
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 4.7
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: hi
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 256
-Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 9999999999Generated Password: Invalid
-Password Strength: Invalid
-
-Password Length: 14
-Generated Password: ,QlLGrS/_Ip1!l
-Password Strength: Strong
-
-Password Length: 9
-Generated Password: n%7bh}dkN
-Password Strength: Moderate
-
-Password Length: 5
-Generated Password: $2Ws|
+Generated Password: "X5[z
 Password Strength: Weak
 
 Password Length: 2
