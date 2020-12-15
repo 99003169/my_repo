@@ -1,0 +1,2 @@
+hi server!
+this is me client, nice to meet you.
